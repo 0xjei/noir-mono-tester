@@ -1,0 +1,6 @@
+[package]
+name = "safe_api"
+type = "bin"
+authors = [""]
+
+[dependencies]

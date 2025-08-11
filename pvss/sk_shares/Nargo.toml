@@ -1,0 +1,6 @@
+[package]
+name = "sk_shares"
+type = "bin"
+authors = [""]
+
+[dependencies]
