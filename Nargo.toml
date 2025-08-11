@@ -4,5 +4,6 @@ members = [
     "crates/pvss/pk_pvw",
     "crates/pvss/pk_trbfv",
     "crates/pvss/sk_shares",
-    "crates/safe_api/"
+    "crates/safe_api/",
+    "crates/polynomial"
 ]
