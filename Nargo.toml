@@ -1,6 +1,6 @@
 [workspace]
 members = [
-    "crates/greco/pk_encryption",
+    "crates/greco",
     "crates/pvss/pk_pvw",
     "crates/pvss/pk_trbfv",
     "crates/pvss/sk_shares",
