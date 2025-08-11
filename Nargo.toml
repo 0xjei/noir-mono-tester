@@ -1,9 +1,9 @@
 [workspace]
 members = [
-    "crates/greco",
-    "crates/pvss/pk_pvw",
-    "crates/pvss/pk_trbfv",
-    "crates/pvss/sk_shares",
-    "crates/safe_api/",
-    "crates/polynomial"
+    "crates/circuits/greco",
+    "crates/circuits/pvss/pk_pvw",
+    "crates/circuits/pvss/pk_trbfv",
+    "crates/circuits/pvss/sk_shares",
+    "crates/libs/safe/",
+    "crates/libs/polynomial"
 ]

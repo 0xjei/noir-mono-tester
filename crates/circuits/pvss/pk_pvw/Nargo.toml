@@ -1,0 +1,7 @@
+[package]
+name = "pvss_pk_pvw"
+type = "bin"
+authors = [""]
+
+[dependencies]
+polynomial = { path = "../../../libs/polynomial" }

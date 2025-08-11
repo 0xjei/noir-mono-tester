@@ -1,5 +1,5 @@
 [package]
-name = "sk_shares"
+name = "pvss_sk_shares"
 type = "bin"
 authors = [""]
 
